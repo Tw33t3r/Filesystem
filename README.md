@@ -7,5 +7,5 @@ If this were to be used in a live system, many optimizations would neeed to be m
 
 Written initially as a group project by Garrett Tvedt, Ryan Cook, and Moriah Miller.
 
-Further edited for personal portfolio use by Garrett Tvedt
+Further edited and optimized for personal portfolio use by Garrett Tvedt
 
